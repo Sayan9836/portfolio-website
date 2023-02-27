@@ -11,21 +11,21 @@ const data=[
         image:IMG1,
         title:'modern-gym-app',
         github:'https://github.com/Sayan9836/my-exercise-app',
-        live:'dbcjcs'
+        live:'https://sayan9836.github.io/my-exercise-app/'
     },
     {
         id:2,
         image:IMG2,
         title:'IMDB-app',
         github:'https://github.com/Sayan9836/Movies-app',
-        live:'dbcjcs'
+        live:'https://sayan9836.github.io/Movies-app/'
     },
     {
         id:3,
         image:IMG3,
         title:'quiz-app',
         github:'https://github.com/Sayan9836/quiz-app',
-        live:'dbcjcs'
+        live:'https://sayan9836.github.io/quiz-app/'
     },
     {
         id:4,
@@ -60,7 +60,7 @@ const data=[
         image:IMG2,
         title:'pixabay-image-finder',
         github:'https://github.com/Sayan9836/pixabay-image-finder',
-        live:'dbcjcs'
+        live:'https://sayan9836.github.io/pixabay-image-finder/'
     },
     {
         id:9,
